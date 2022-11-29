@@ -1,12 +1,16 @@
 # Maven Pizzas
-Predicción semanal de cantidad de ingredientes a comprar en base a los pedidos del 2015.
-Predicción realizada con python 3.9.7.
+Predicción semanal de cantidad de ingredientes a comprar en base a los pedidos del 2015. 
+Predicción realizada con python 3.9.7 desde Visual Studio Code.
 ## Funcionamiento
 A continuación se explicarán los pasos necesarios para ejecutar correctamente el programa.
 ### Librerías
 Instalar las librerías aportadas en el requirements.txt siguiendo este ejemplo:
 ```
 pip install pandas
+```
+O mediante:
+```
+pip install -r requirements.txt
 ```
 ### Archivos
 Todos los archivos aportados han de estar en el mismo directorio. El archivo a ejectutar es pizzas1.py de esta forma:
